@@ -1,4 +1,5 @@
-### Easy
+## -Learning Python
+#### +Easy
 
 [[1 - Hello World]]
 [[2 - Variables]]
@@ -8,4 +9,8 @@
 [[6 - Try and Except]]
 [[7 - Useful String Methods]]
 [[8 - String Indexing]]
-### Intermediate
+### +Intermediate
+
+
+## -Python Exercises
+#### +Easy

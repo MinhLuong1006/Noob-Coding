@@ -20,6 +20,7 @@
 | x is not y  |    x is not the same as y    |
 |   x != y    |     x is not equal to y      |
 
+## Logical operators:
 
 | Logical operators |                                Meaning                                |
 | :---------------: | :-------------------------------------------------------------------: |

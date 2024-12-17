@@ -9,7 +9,7 @@ print(n[0])
 ```
 
 ```python
-n = "Deutschlanduberalles" #-1 starts at s
+n = "Deutschlanduberalles" # -1 is "s"
 print(n[-3])
 
 
@@ -38,4 +38,12 @@ print(n[::2])
 
 
 #Output:Dushadbrle
+```
+
+```python
+n = "Deutschlanduberalles"
+print(n[::-1])
+
+
+#Output:sellarebudnalhcstueD
 ```

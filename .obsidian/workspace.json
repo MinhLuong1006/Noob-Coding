@@ -25,13 +25,14 @@
             "id": "27b8e4b400b4f634",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Python notes/Gittest.md",
-                "staged": false
+                "file": "Python notes/1 - Hello World.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Gittest)"
+              "icon": "lucide-file",
+              "title": "1 - Hello World"
             }
           }
         ],
@@ -185,15 +186,18 @@
   },
   "active": "27b8e4b400b4f634",
   "lastOpenFiles": [
+    "Python.md",
+    "C++.md",
+    "Deutsch.md",
+    "Deutsch A1/Plural Regeln.md",
+    "Python notes/2 - Variables.md",
+    "Deutsch A1",
     "Python notes/Gittest.md",
     "Python notes/4 - Boolean Expressions in Python.md",
     "repository",
     "Python notes/5 - if, elif, else statements.md",
     "Python notes/3 - Type Casting.md",
     "Python notes/1 - Hello World.md",
-    "Python notes/2 - Variables.md",
-    "Python.md",
-    "C++.md",
     "Untitled",
     "C++ notes",
     "create a link.md",

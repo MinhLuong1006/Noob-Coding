@@ -3,10 +3,34 @@
 
 ```python
 name = input()
-print(len(name))
+result = len(name)
+print(result)
 
 #Input:Minh Luong
 #Output:10
 ```
 
-## II) 
+## II) find() | Find the first occurrence of an element in the string
+
+```python
+name = input()
+result = name.find(L)
+print(result)
+
+#Input:Minh Luong
+#Output:5
+```
+
+## III) rfind() | To find the last occurrence
+```python
+
+name = input()
+result = name.rfind(L)
+print(result)
+
+#Input:Minh Luong
+#Output:4
+```
+
+
+

@@ -8,7 +8,7 @@ except ValueError: #except only is still OK for many situations
 	print("x is not an integer")
 ```
 
-##### - Combining Try and Except with Else:
+##### -Combining Try and Except with Else:
 
 ```python
 try:
@@ -17,4 +17,18 @@ except ValueError: #except only is still OK for many situations
 	print("x is not an integer")
 else:
 	print(f"x is {x}")
+```
+
+##### -Forcing the user to enter the right value using Try/Except and While loop:
+
+```python
+while True:
+	try:
+		x = int(input("Enter x: "))
+	except ValueError: #except only is still OK for many situations
+		print("x is not an integer")
+	else:
+		break
+		
+print(f"x is {x}")
 ```

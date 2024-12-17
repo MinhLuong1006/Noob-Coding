@@ -71,7 +71,7 @@ print(result)
 #Output:Minh Luong
 ```
 
-## VII) isdigit() | Check if all elements in the string are digits
+## VII) isdigit() | Check if all elements in a string are digits
 ```python
 x = input()
 result = x.isdigit()    
@@ -81,7 +81,7 @@ print(result)
 #Output:False                            #Output:True
 ```
 
-## VIII) isalpha() | Check if all elements in the string are alphabet letters
+## VIII) isalpha() | Check if all elements in a string are alphabet letters
 ```python
 x = input()
 result = x.isalpha()    
@@ -89,4 +89,18 @@ print(result)
 
 #Input:minhluong                 #Input:lol2365546  or   minh luong or   minh_luong
 #Output:True                     #Output:False
+```
+## IX) count() | Count how many times an element exists in a string
+```python
+name = input()
+result = name.count("n")    
+print(result)
+
+#Input:minh luong
+#Output:2
+```
+
+## X) To see all the string methods in Python:
+```python
+print(help(str))
 ```

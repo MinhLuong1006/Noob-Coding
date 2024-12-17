@@ -32,3 +32,21 @@ while True:
 		
 print(f"x is {x}")
 ```
+
+##### Let's combine all the things using Function:
+
+```python
+def main():
+	x = get_int("Enter x: ")
+	print(f"x is {x}")
+	
+def get_int(prompt):
+	while True:
+		try:
+			return int(input("Enter x: "))
+		except ValueError: #except only is still OK for many situations
+			print("x is not an integer, please enter an integer.")
+		else:
+			break
+main()
+```

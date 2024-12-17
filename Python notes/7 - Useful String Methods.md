@@ -14,23 +14,32 @@ print(result)
 
 ```python
 name = input()
-result = name.find(L)
+result = name.find("L")
 print(result)
 
 #Input:Minh Luong
 #Output:5
+#If there is no result it will return -1
 ```
 
 ## III) rfind() | To find the last occurrence
 ```python
-
 name = input()
-result = name.rfind(L)
+result = name.rfind("L")
 print(result)
 
 #Input:Minh Luong
 #Output:4
+#If there is no result it will return -1
 ```
 
+## IV) capitalize()  | Only capitalize the FIRST element of the string
+```python
+name = input()
+result = name.capitalize()    #capitalize() takes no argument
+print(result)
 
+#Input:minh luong
+#Output:Minh luong
+```
 

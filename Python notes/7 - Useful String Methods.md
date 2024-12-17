@@ -70,3 +70,23 @@ print(result)
 #Input:minh luong
 #Output:Minh Luong
 ```
+
+## VII) isdigit() | Check if all elements in the string are digits
+```python
+x = input()
+result = x.isdigit()    
+print(result)
+
+#Input:minh luong123                     #Input:2365546
+#Output:False                            #Output:True
+```
+
+## VIII) isalpha() | Check if all elements in the string are alphabet letters
+```python
+x = input()
+result = x.isalpha()    
+print(result)
+
+#Input:minhluong                 #Input:lol2365546  or   minh luong or   minh_luong
+#Output:True                     #Output:False
+```

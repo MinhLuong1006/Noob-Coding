@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python notes/1 - Hello World.md",
+                "file": "C++ notes/F.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Hello World"
+              "title": "F"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "27b8e4b400b4f634",
   "lastOpenFiles": [
-    "Python notes/Gittest.md",
     "Python notes/1 - Hello World.md",
+    "C++ notes/F.md",
+    "Python notes/Gittest.md",
     "Python.md",
     "C++.md",
     "Deutsch.md",

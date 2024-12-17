@@ -33,7 +33,7 @@ while True:
 print(f"x is {x}")
 ```
 
-##### Let's combine all the things using Function:
+##### Let's combine all the things using Functions:
 
 ```python
 def main():

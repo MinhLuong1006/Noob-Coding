@@ -57,7 +57,7 @@ print(f"{price2:+}")
 #Output:+5.26
 #       -8.96
 ----------------------------------------------------------------------------------
-#value:space to add a space before a positive value
+#value:space to add a space before a positive value, just to make it cleaner
 price1 = 5.26
 price2 = -8.96
 price3 = 4.55
@@ -72,4 +72,29 @@ print(f"{price4: }")
 #       -8.96
 #        4.55
 #       -5.25
+```
+
+### V) value:,  | Comma separator
+```python
+n = 3000000
+
+print(f"{n:,}")
+
+
+#Output:3,000,000
+```
+
+### VI) Mix and Match Format Specifiers
+```python
+n1 = 3000.14159
+n2 = -947584.65
+n3 = -1200.35
+
+print(f"{n1:+,.2f}")
+print(f"{n2:+,.2f}")
+print(f"{n3:+,.2f}")
+
+#Output: +3,000.14
+#        -947,584.65
+#        -1,200.35
 ```

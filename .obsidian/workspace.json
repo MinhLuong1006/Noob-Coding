@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Python Easy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Python Easy"
+            }
+          },
+          {
+            "id": "caa575ec57bcd943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e78ff0e722fa5dc6",
+  "active": "caa575ec57bcd943",
   "lastOpenFiles": [
     "Python Easy.md",
-    "Python.md",
+    "Untitled.md",
+    "Untitled",
     "Deutsch.md",
     "Python notes/Python Easy/8 - String Indexing.md",
     "Python notes/Python Easy/7 - Useful String Methods.md",
@@ -182,7 +198,6 @@
     "Python notes/Python Easy/1 - Hello World.md",
     "Python notes/Python Easy/6 - Try and Except.md",
     "Python notes/Python Easy/5 - If, Elif, Else Statements.md",
-    "Untitled.md",
     "Python notes/Python Easy",
     "C++.md",
     "Deutsch A1/Plural Regeln.md",

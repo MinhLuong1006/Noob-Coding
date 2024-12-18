@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "10 - For Loops"
             }
+          },
+          {
+            "id": "bf4e00cbd54077e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Print all odd or even numbers from 1-100.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Print all odd or even numbers from 1-100"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,21 +198,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad5cabf7025d9848",
+  "active": "bf4e00cbd54077e7",
   "lastOpenFiles": [
     "Python/Python notes/Python Easy notes/10 - For Loops.md",
+    "Print all odd or even numbers from 1-100.md",
+    "Python/Python notes/Python Easy notes/6 - Try and Except.md",
+    "Python/Python notes/Python Exercises notes/Easy/Capitalize first and last names of people.md",
+    "Python/Python notes/Python Easy notes/4 - Boolean Expressions in Python.md",
     "Python/Menu/Python Easy.md",
     "Python/-----PYTHON------.md",
     "Python/Python notes/Python Easy notes/9 - Format Specifiers.md",
     "Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
-    "Python/Python notes/Python Exercises notes/Easy/Capitalize first and last names of people.md",
     "Python/Python notes/Python Easy notes/8 - String Indexing.md",
     "Python/Python notes/Python Easy notes/3 - Type Casting.md",
     "Python/Python notes/Python Easy notes/1 - Hello World.md",
     "Python/Python notes/Python Easy notes/2 - Variables.md",
-    "Python/Python notes/Python Easy notes/4 - Boolean Expressions in Python.md",
     "Python/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md",
-    "Python/Python notes/Python Easy notes/6 - Try and Except.md",
     "Python/Python notes/Python Easy notes/7 - Useful String Methods.md",
     "Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
     "Python/Menu/Python Exercises Menu/Python Medium Exercises.md",
@@ -220,7 +235,6 @@
     "Deutsch/Deutsch A1/Plural Regeln.md",
     "Coding Notes",
     "Python/Menu",
-    "Python",
-    "C++ notes/F.md"
+    "Python"
   ]
 }

@@ -37,10 +37,22 @@ price2 = 8.96
 price3 = 6.157
 
 print(price1:<10) #Left justify
-print(price1:^10) #Center align
-print(price1:>10) #Right justify
+print(price2:^10) #Center align
+print(price3:>10) #Right justify
 
 #Output:5.26------              -: space
 #       ---8.96---
 #       -----6.157
+```
+
+### IV) value:+  | To indicate positive and negative values
+```python
+price1 = 5.26
+price2 = -8.96
+
+print(price1:+) 
+print(price2:+) 
+
+#Output:+5.26
+#       -8.96
 ```

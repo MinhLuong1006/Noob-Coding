@@ -1,4 +1,5 @@
 ## Categories:
+
 [[1 - Hello World]]
 [[2 - Variables]]
 [[3 - Type Casting]]
@@ -8,3 +9,4 @@
 [[7 - Useful String Methods]]
 [[8 - String Indexing]]
 [[9 - Format Specifiers]]
+[[10 - For Loops]]

@@ -3,7 +3,7 @@
 #use for loop to print from 1 to 5
 
 for x in range(1,6): #since the 2nd number is exclusive so we write 11 
-	print x
+	print(x)
 
 #Output: 1
 #        2
@@ -13,11 +13,20 @@ for x in range(1,6): #since the 2nd number is exclusive so we write 11
 ---------------------------------------------------------------------------------
 #use for loop to print odd numbers only from 1 to 10
 for x in range(1,11,2): #since the 2nd number is exclusive so we write 11 
-	print x
+	print(x)
 
 #Output: 1
 #        3
 #        5
 #        7
 #        9
+```
+
+### Iterating backwards
+```python
+for x in range(10, 0, -1):
+	print(x)
+---------------------------------------------------------------------------------
+for x in reversed(range(1,11)): 
+	print(x)
 ```

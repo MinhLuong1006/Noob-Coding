@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cfc4e2d8948e08d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Python notes/Python Easy notes/8 - String Indexing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8 - String Indexing"
-            }
-          },
-          {
-            "id": "290d09de76272092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python Easy Exercises"
-            }
-          },
-          {
-            "id": "1e8485c5735be1bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Email Slicer"
-            }
-          },
-          {
-            "id": "6944230d8d84593a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/-----PYTHON------.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "-----PYTHON------"
-            }
-          },
-          {
             "id": "6b405e242deb02db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Exercises/Python Exercises.md",
+                "file": "Deutsch/Deutsch Lernen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Exercises"
+              "title": "Deutsch Lernen"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a06412be0679dcaf",
@@ -228,13 +171,13 @@
   },
   "active": "ba9cde0c4c97a18c",
   "lastOpenFiles": [
-    "Python Exercises",
-    "Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
-    "Python Exercises/Python Exercises.md",
+    "Python/-----PYTHON------.md",
+    "Python/Menu/Python Exercises Menu/Python Exercises.md",
     "Python/Menu/Python Exercises Menu/Python Medium Exercises.md",
+    "Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
+    "Python/Menu/Python Exercises Menu/Python Exercises",
     "Python/Menu/Python Intermediate.md",
     "Python/Menu/Python Easy.md",
-    "Python/-----PYTHON------.md",
     "Python/Python notes/Python Exercises notes/Medium/Medium test.md",
     "Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
     "Python/Python notes/Python Intermediate notes/NumPy.md",
@@ -251,14 +194,13 @@
     "Python/Python notes/Python Easy notes/1 - Hello World.md",
     "Python/Menu/Python Useful Libraries.md",
     "Python/Python notes/Python Useful Libraries",
-    "Deutsch/Deutsch Menu.md",
+    "Deutsch/Deutsch Lernen.md",
     "Deutsch",
     "C++.md",
     "Deutsch/Deutsch A1/Plural Regeln.md",
     "Coding Notes",
     "Python/Menu",
     "Python",
-    "Python/Python notes/Python Intermediate notes",
     "Python/Python notes/Python Easy notes/2 - Variables.md",
     "Python/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md",
     "C++ notes/F.md",

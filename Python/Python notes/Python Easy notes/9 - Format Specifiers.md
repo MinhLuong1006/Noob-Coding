@@ -1,4 +1,5 @@
-## Format specifiers {value:flags} format a value based on what flags are inserted.
+## Format specifiers f"{value:flags}" format a value based on what flags are inserted.
+### *** MUST USE A FORMATTED STRING f"{value}"
 
 ### I) value:.(number)f  | Round to that many decimal places (fixed point)
 ```python
@@ -36,23 +37,39 @@ price1 = 5.26
 price2 = 8.96
 price3 = 6.157
 
-print(price1:<10) #Left justify
-print(price2:^10) #Center align
-print(price3:>10) #Right justify
+print(f"{price1:<10}") #Left justify
+print(f"{price2:^10}") #Center align
+print(f"{price3:>10}") #Right justify
 
 #Output:5.26------              -: space
 #       ---8.96---
 #       -----6.157
 ```
 
-### IV) value:+  | To indicate positive and negative values
+### IV) value:+  | To indicate positive and negative values 
 ```python
 price1 = 5.26
 price2 = -8.96
 
-print(price1:+) 
-print(price2:+) 
+print(f"{price1:+}") 
+print(f"{price2:+}") 
 
 #Output:+5.26
 #       -8.96
+----------------------------------------------------------------------------------
+#value:space to add a space before a positive value
+price1 = 5.26
+price2 = -8.96
+price3 = 4.55
+price4 = -5.25
+
+print(f"{price1: }") 
+print(f"{price2: }")
+print(f"{price3: }") 
+print(f"{price4: }")
+
+#Output: 5.26
+#       -8.96
+#        4.55
+#       -5.25
 ```

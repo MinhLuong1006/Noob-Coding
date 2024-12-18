@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python notes/Python Easy/4 - Boolean Expressions in Python.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Boolean Expressions in Python"
+              "title": "Python"
             }
           }
         ]
@@ -171,19 +171,20 @@
   },
   "active": "e78ff0e722fa5dc6",
   "lastOpenFiles": [
+    "Python Easy.md",
+    "Python.md",
+    "Deutsch.md",
     "Python notes/Python Easy/8 - String Indexing.md",
+    "Python notes/Python Easy/7 - Useful String Methods.md",
+    "Python notes/Python Easy/4 - Boolean Expressions in Python.md",
     "Python notes/Python Easy/3 - Type Casting.md",
     "Python notes/Python Easy/2 - Variables.md",
     "Python notes/Python Easy/1 - Hello World.md",
-    "Python notes/Python Easy/7 - Useful String Methods.md",
     "Python notes/Python Easy/6 - Try and Except.md",
-    "Python.md",
     "Python notes/Python Easy/5 - If, Elif, Else Statements.md",
-    "Python notes/Python Easy/4 - Boolean Expressions in Python.md",
     "Untitled.md",
     "Python notes/Python Easy",
     "C++.md",
-    "Deutsch.md",
     "Deutsch A1/Plural Regeln.md",
     "C++ notes/F.md",
     "Python notes/Gittest.md",

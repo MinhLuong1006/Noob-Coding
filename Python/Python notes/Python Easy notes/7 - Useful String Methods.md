@@ -10,7 +10,7 @@ print(result)
 #Output:10
 ```
 
-## II) find() | Find the first occurrence of an element in a string
+## II) find() and index()| Find the first occurrence of an element in a string
 
 ```python
 name = input()

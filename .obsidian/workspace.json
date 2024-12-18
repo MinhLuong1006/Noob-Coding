@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 200
   },
   "right": {
     "id": "a06412be0679dcaf",
@@ -171,16 +171,16 @@
   },
   "active": "6b405e242deb02db",
   "lastOpenFiles": [
-    "Deutsch/Deutsch Lernen.md",
-    "Python/-----PYTHON------.md",
-    "Python/Menu/Python Exercises Menu/Python Exercises.md",
-    "Python/Menu/Python Exercises Menu/Python Medium Exercises.md",
     "Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
+    "Python/Menu/Python Exercises Menu/Python Exercises.md",
+    "Python/-----PYTHON------.md",
+    "Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
+    "Deutsch/Deutsch Lernen.md",
+    "Python/Menu/Python Exercises Menu/Python Medium Exercises.md",
     "Python/Menu/Python Exercises Menu/Python Exercises",
     "Python/Menu/Python Intermediate.md",
     "Python/Menu/Python Easy.md",
     "Python/Python notes/Python Exercises notes/Medium/Medium test.md",
-    "Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
     "Python/Python notes/Python Intermediate notes/NumPy.md",
     "Python/Python notes/Python Exercises notes/Medium",
     "Python/Menu/Python Exercises Menu",

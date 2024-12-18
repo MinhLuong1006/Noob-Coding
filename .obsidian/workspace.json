@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python notes/Python Intermediate notes/NumPy.md",
+                "file": "Python Exercises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NumPy"
+              "title": "Python Exercises"
             }
           }
         ],
@@ -226,16 +226,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba9cde0c4c97a18c",
+  "active": "6b405e242deb02db",
   "lastOpenFiles": [
-    "Python Exercises.md",
     "Python/-----PYTHON------.md",
+    "Python/Menu/Python Exercises/Python Medium Exercises.md",
+    "Python/Menu/Python Exercises/Python Easy Exercises.md",
+    "Python/Menu/Python Intermediate.md",
+    "Python/Menu/Python Easy.md",
+    "Python/Python notes/Python Intermediate notes/NumPy.md",
+    "Python Exercises.md",
     "Python/Python notes/Python Exercises notes/Medium/Medium test.md",
     "Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
     "Python/Python notes/Python Exercises notes/Medium",
-    "Python/Menu/Python Exercises/Python Easy Exercises.md",
-    "Python/Menu/Python Exercises/Python Medium Exercises.md",
-    "Python/Menu/Python Easy.md",
     "Python/Menu/Python Exercises",
     "Python/Python notes/Python Easy notes/8 - String Indexing.md",
     "Python/Python notes/Python Useful Libraries/random.md",
@@ -243,8 +245,6 @@
     "Python/Python notes/Python Exercises notes/Easy",
     "Python/Python notes/Python Exercises notes",
     "Python/Python notes/Python Easy notes/7 - Useful String Methods.md",
-    "Python/Menu/Python Intermediate.md",
-    "Python/Python notes/Python Intermediate notes/NumPy.md",
     "Python/Python notes/Python Easy notes/6 - Try and Except.md",
     "Python/Python notes/Python Easy notes/3 - Type Casting.md",
     "Python/Python notes/Python Easy notes/1 - Hello World.md",

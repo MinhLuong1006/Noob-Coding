@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Menu/Python Exercises/Python Easy Exercises.md",
+                "file": "Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Exercises.md",
+                "file": "Python Exercises/Python Exercises.md",
                 "mode": "source",
                 "source": false
               },
@@ -226,19 +226,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b405e242deb02db",
+  "active": "ba9cde0c4c97a18c",
   "lastOpenFiles": [
-    "Python/-----PYTHON------.md",
-    "Python/Menu/Python Exercises/Python Medium Exercises.md",
-    "Python/Menu/Python Exercises/Python Easy Exercises.md",
+    "Python Exercises",
+    "Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
+    "Python Exercises/Python Exercises.md",
+    "Python/Menu/Python Exercises Menu/Python Medium Exercises.md",
     "Python/Menu/Python Intermediate.md",
     "Python/Menu/Python Easy.md",
-    "Python/Python notes/Python Intermediate notes/NumPy.md",
-    "Python Exercises.md",
+    "Python/-----PYTHON------.md",
     "Python/Python notes/Python Exercises notes/Medium/Medium test.md",
     "Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
+    "Python/Python notes/Python Intermediate notes/NumPy.md",
     "Python/Python notes/Python Exercises notes/Medium",
-    "Python/Menu/Python Exercises",
+    "Python/Menu/Python Exercises Menu",
     "Python/Python notes/Python Easy notes/8 - String Indexing.md",
     "Python/Python notes/Python Useful Libraries/random.md",
     "Python/Python notes/Python Easy notes/4 - Boolean Expressions in Python.md",
@@ -262,7 +263,6 @@
     "Python/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md",
     "C++ notes/F.md",
     "Python notes/Gittest.md",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }

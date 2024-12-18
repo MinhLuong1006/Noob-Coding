@@ -1,2 +1,2 @@
 ## Categories:
-[[Python Inter test]]
+[[NumPy]]

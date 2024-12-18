@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch A1/Plural Regeln.md",
+                "file": "Python/Menu/Python Intermediate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plural Regeln"
+              "title": "Python Intermediate"
+            }
+          },
+          {
+            "id": "074feefb0ac16695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Readme - Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme - Python"
+            }
+          },
+          {
+            "id": "0a043072083149f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python notes/Python Easy notes/8 - String Indexing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8 - String Indexing"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,36 +198,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba9cde0c4c97a18c",
+  "active": "0a043072083149f0",
   "lastOpenFiles": [
-    "Python/PYTHON.md",
-    "Coding Notes/Python notes/Python Easy notes/8 - String Indexing.md",
+    "Python/Python notes/Python Easy notes/1 - Hello World.md",
+    "Python/Menu/Python Useful Libraries.md",
     "Python/Menu/Python Easy.md",
-    "Coding Notes/Python notes/Python Easy notes/1 - Hello World.md",
     "Python/Menu/Python Intermediate.md",
-    "Untitled.md",
-    "Coding Notes",
+    "Python/Python notes/Python Useful Libraries/random.md",
+    "Python/Readme - Python.md",
+    "Python/Python notes/Python Intermediate notes/NumPy.md",
+    "Python/Python notes/Python Easy notes/8 - String Indexing.md",
+    "Python/Python notes/Python Useful Libraries",
+    "Deutsch/Deutsch Menu.md",
+    "Deutsch",
     "C++.md",
+    "Deutsch/Deutsch A1/Plural Regeln.md",
+    "Coding Notes",
     "Python/Menu",
-    "Deutsch.md",
-    "Coding Notes/Python notes/Python Intermediate notes/Python Inter test.md",
     "Python",
-    "Coding Notes/Python notes/Python Intermediate notes",
-    "Coding Notes/Python notes/Python Easy notes/7 - Useful String Methods.md",
-    "Coding Notes/Python notes/Python Easy notes/4 - Boolean Expressions in Python.md",
-    "Coding Notes/Python notes/Python Easy notes/3 - Type Casting.md",
-    "Coding Notes/Python notes/Python Easy notes/2 - Variables.md",
-    "Coding Notes/Python notes/Python Easy notes/6 - Try and Except.md",
-    "Coding Notes/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md",
-    "Coding Notes/Python notes/Python Easy notes",
-    "Deutsch A1/Plural Regeln.md",
+    "Python/Python notes/Python Intermediate notes",
+    "Python/Python notes/Python Easy notes/7 - Useful String Methods.md",
+    "Python/Python notes/Python Easy notes/4 - Boolean Expressions in Python.md",
+    "Python/Python notes/Python Easy notes/3 - Type Casting.md",
+    "Python/Python notes/Python Easy notes/2 - Variables.md",
+    "Python/Python notes/Python Easy notes/6 - Try and Except.md",
+    "Python/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md",
+    "Python/Python notes/Python Easy notes",
     "C++ notes/F.md",
     "Python notes/Gittest.md",
-    "Deutsch A1",
+    "Deutsch/Deutsch A1",
     "repository",
-    "Coding Notes/C++ notes",
+    "C++ notes",
     "create a link.md",
-    "Coding Notes/Python notes",
     "Welcome.md"
   ]
 }

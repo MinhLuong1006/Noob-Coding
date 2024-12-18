@@ -1,4 +1,4 @@
-#### String indexing, index()
+#### What will be used: String indexing, index()
 ```python
 email = input("Please enter your email: ")
 splitpos = email.index("@")

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Menu/C++ Exercises.md",
+                "file": "Learn Coding/C++/Menu/C++ Exercises.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md",
+                "file": "Deutsch/Deutsch Lernen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++ Medium Exercises"
+              "title": "Deutsch Lernen"
+            }
+          },
+          {
+            "id": "950eda0f1cf814ff",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,43 +194,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3b4ba398f241278",
+  "active": "950eda0f1cf814ff",
   "lastOpenFiles": [
-    "C++/C++ notes/C++ Exercises Notes/Medium/Write a C++ code for a program that intakes a positive integer (called the year) and check if the year is a leap year or not..md",
-    "C++/Menu/C++ Exercises.md",
-    "Python/Python notes/Python Useful Libraries/random.md",
-    "Python/Menu/Python Useful Libraries.md",
-    "Python/Python notes/Python Exercises notes/Easy/Print all odd or even numbers from 1 to n.md",
-    "Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
-    "Python/Menu/Python Exercises.md",
-    "Python/Menu/Python Easy.md",
-    "Python/Python notes/Python Easy notes/1 - Hello World.md",
-    "C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md",
-    "C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md",
-    "C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md",
-    "C++/C++ notes/C++ Exercises Notes/Hard",
-    "C++/C++ notes/C++ Exercises Notes/Medium",
-    "C++/C++ notes/C++ Exercises Notes/Easy",
-    "C++/C++ notes/C++ Exercises Notes",
-    "C++/----C++----.md",
-    "C++/Menu/C++ Exercises Menu",
-    "C++/C++ notes",
-    "C++/Menu",
-    "C++",
-    "Python/Python notes/Python Easy notes/7 - Useful String Methods.md",
-    "Python/Python notes/Python Easy notes/8 - String Indexing.md",
-    "Python/Python notes/Python Easy notes/9 - Format Specifiers.md",
-    "Python/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md",
-    "Python/Python notes/Python Easy notes/10 - For Loops.md",
-    "Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
-    "Python/Python notes/Python Exercises notes/Easy/Capitalize first and last names of people.md",
-    "Python/Python notes/Python Easy notes/6 - Try and Except.md",
-    "Python/Python notes/Python Easy notes/4 - Boolean Expressions in Python.md",
-    "Python/-----PYTHON------.md",
-    "Python/Python notes/Python Easy notes/3 - Type Casting.md",
-    "Python/Python notes/Python Easy notes/2 - Variables.md",
-    "Python/Menu/Python Exercises Menu/Python Medium Exercises.md",
-    "Python/Menu/Python Exercises Menu/Python Exercises",
-    "Python/Python notes/Python Exercises notes/Medium"
+    "Learn Coding/Coding.md",
+    "Learn Coding",
+    "Deutsch/Deutsch Lernen.md",
+    "Learn Coding/C++/----C++----.md",
+    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/Write a C++ code for a program that intakes a positive integer (called the year) and check if the year is a leap year or not..md",
+    "Learn Coding/C++/Menu/C++ Exercises.md",
+    "Learn Coding/Python/Python notes/Python Useful Libraries/random.md",
+    "Learn Coding/Python/Menu/Python Useful Libraries.md",
+    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Print all odd or even numbers from 1 to n.md",
+    "Learn Coding/Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
+    "Learn Coding/Python/Menu/Python Exercises.md",
+    "Learn Coding/Python/Menu/Python Easy.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/1 - Hello World.md",
+    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md",
+    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Easy",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes",
+    "Learn Coding/C++/Menu/C++ Exercises Menu",
+    "Learn Coding/C++/C++ notes",
+    "Learn Coding/C++/Menu",
+    "Learn Coding/C++",
+    "Learn Coding/Python/Python notes/Python Easy notes/7 - Useful String Methods.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/8 - String Indexing.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/9 - Format Specifiers.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/10 - For Loops.md",
+    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
+    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Capitalize first and last names of people.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/6 - Try and Except.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/4 - Boolean Expressions in Python.md",
+    "Learn Coding/Python/-----PYTHON------.md",
+    "Python/Menu/Python Exercises Menu/Python Exercises"
   ]
 }

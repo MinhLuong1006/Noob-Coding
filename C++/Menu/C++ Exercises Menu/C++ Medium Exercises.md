@@ -1,0 +1,1 @@
+[[Write a C++ code for a program that intakes a positive integer (called the year) and check if the year is a leap year or not.]]

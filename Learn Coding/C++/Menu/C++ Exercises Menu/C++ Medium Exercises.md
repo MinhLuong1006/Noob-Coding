@@ -15,3 +15,5 @@
 [[C++ program that gets a number and prints all the Armstrong numbers from 1 to the given number.]]
 
 [[C++ program to check if a number is a perfect number or not.]]
+
+[[C++ program that gets a binary number and converts the number to decimal.]]

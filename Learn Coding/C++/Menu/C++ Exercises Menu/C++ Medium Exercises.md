@@ -11,3 +11,5 @@
 [[C++ program that gets a number and displays the given number with its digits reversed. Ex 123 to 321.]]
 
 [[C++ program that gets a number and calculates the sum of the digits in the given number.]]
+
+[[C++ program that gets a number and prints all the Armstrong numbers from 1 to the given number.]]

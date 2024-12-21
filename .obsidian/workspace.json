@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md",
+                "file": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++ Easy Exercises"
+              "title": "C++ Medium Exercises"
             }
           }
         ]
@@ -171,20 +171,20 @@
   },
   "active": "8314da80e31707a7",
   "lastOpenFiles": [
-    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md",
-    "Learn Coding/C++/----C++----.md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and calculates the sum of the digits in the given number..md",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and prints all the Armstrong numbers from 1 to the given number..md",
     "C++ program that gets a binary number and converts the number to decimal..md",
-    "C++ program to check if a number is perfect or not..md",
     "C++ program to check if a number is a perfect number or not..md",
-    "C++ program that gets a number and prints all the Armstrong numbers from 1 to the given number..md",
+    "C++ program to check if a number is perfect or not..md",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and calculates the sum of the digits in the given number..md",
     "C++ program that gets a number and displays the sum of the digits in the given number..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes three positive integers (called day, month, year) then prints the number of that day within its year..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and displays the given number with its digits reversed. Ex 123 to 321..md",
     "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that allows the user to input an array of n integers and print out the smallest number of the array..md",
     "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ Number Guessing Game..md",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not..md",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes three positive integers (called day, month, year) then prints the number of that day within its year..md",
     "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md",
+    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md",
+    "Learn Coding/C++/----C++----.md",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and displays the given number with its digits reversed. Ex 123 to 321..md",
     "Learn Coding/C++/C++ notes/C++ Exercises Notes/Easy/C++ program to check if a number is prime or not.md",
     "Learn Coding/Python/Python notes/Python Intermediate notes/Pandas.md",
     "Learn Coding/Python/Menu/Python Intermediate.md",

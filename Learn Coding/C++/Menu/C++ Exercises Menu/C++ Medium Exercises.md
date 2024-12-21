@@ -13,3 +13,5 @@
 [[C++ program that gets a number and calculates the sum of the digits in the given number.]]
 
 [[C++ program that gets a number and prints all the Armstrong numbers from 1 to the given number.]]
+
+[[C++ program to check if a number is a perfect number or not.]]

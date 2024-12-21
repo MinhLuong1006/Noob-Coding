@@ -1,1 +1,0 @@
-#### A perfect number is equal to the sum of its divisors excluding itself

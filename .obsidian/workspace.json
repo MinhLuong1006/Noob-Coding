@@ -11,10 +11,24 @@
             "id": "103ca7bc8629b6d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ Program to sort an array with ascending order..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++ Program to sort an array with ascending order."
+            }
+          },
+          {
+            "id": "49f721206200a035",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -73,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 578.5
+    "width": 308.5
   },
   "right": {
     "id": "a06412be0679dcaf",
@@ -167,6 +181,19 @@
   },
   "active": "103ca7bc8629b6d4",
   "lastOpenFiles": [
+    "Python Clock Timer..md",
+    "Learn Coding/C++/Menu/C++ Exercises.md",
+    "Learn Coding/C++/----C++----.md",
+    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md",
+    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md",
+    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ Program to sort an array with ascending order..md",
+    "Learn Coding/CODING.md",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that allows the user to input an array of n integers and print out the smallest number of the array..md",
+    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python Email Slicer..md",
+    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python program to capitalize first and last names of people..md",
+    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python program to print all odd or even numbers from 1 to n.md",
+    "Learn Coding/Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
     "Untitled.canvas",
     "Deutsch/Deutsch A1/Plural Regeln.md",
     "Learn Coding/Python/Python notes/Python Easy notes/4 - Boolean Expressions in Python.md",
@@ -176,23 +203,11 @@
     "Learn Coding/Python/Python notes/Python Intermediate notes/Pandas.md",
     "Learn Coding/Python/Python notes/Python Intermediate notes/NumPy.md",
     "Learn Coding/Python/Python notes/Python Exercises notes/Medium/Medium test.md",
-    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Print all odd or even numbers from 1 to n.md",
-    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
-    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Capitalize first and last names of people.md",
     "Learn Coding/Python/Python notes/Python Easy notes/10 - For Loops.md",
     "Learn Coding/Python/Python notes/Python Easy notes/9 - Format Specifiers.md",
     "Learn Coding/Python/Python notes/Python Easy notes/8 - String Indexing.md",
     "Learn Coding/Python/Python notes/Python Easy notes/7 - Useful String Methods.md",
     "Learn Coding/Python/Python notes/Python Easy notes/6 - Try and Except.md",
-    "Learn Coding/Python/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md",
-    "Learn Coding/Python/Python notes/Python Easy notes/3 - Type Casting.md",
-    "Learn Coding/Python/Python notes/Python Easy notes/2 - Variables.md",
-    "Learn Coding/Python/Python notes/Python Easy notes/1 - Hello World.md",
-    "Learn Coding/Python/Menu/Python Useful Libraries.md",
-    "Learn Coding/Python/Menu/Python Intermediate.md",
-    "Learn Coding/Python/Menu/Python Exercises.md",
-    "Learn Coding/Python/Menu/Python Easy.md",
-    "Learn Coding/Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
     "Learn Coding",
     "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard",
     "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium",

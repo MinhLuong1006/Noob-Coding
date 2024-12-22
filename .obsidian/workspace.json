@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8314da80e31707a7",
+            "id": "103ca7bc8629b6d4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Cpp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 578.5
   },
   "right": {
     "id": "a06412be0679dcaf",
@@ -165,34 +165,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8314da80e31707a7",
+  "active": "103ca7bc8629b6d4",
   "lastOpenFiles": [
-    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a binary number and converts the number to decimal..md",
-    "Learn Coding/Python/Python notes/Python Easy notes/9 - Format Specifiers.md",
+    "Untitled.canvas",
+    "Deutsch/Deutsch A1/Plural Regeln.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/4 - Boolean Expressions in Python.md",
+    "Learn Coding/Python/Menu/Python Exercises Menu/Python Medium Exercises.md",
+    "Learn Coding/Python/-----PYTHON------.md",
     "Learn Coding/Python/Python notes/Python Useful Libraries/random.md",
     "Learn Coding/Python/Python notes/Python Intermediate notes/Pandas.md",
     "Learn Coding/Python/Python notes/Python Intermediate notes/NumPy.md",
+    "Learn Coding/Python/Python notes/Python Exercises notes/Medium/Medium test.md",
     "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Print all odd or even numbers from 1 to n.md",
+    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Email Slicer.md",
     "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Capitalize first and last names of people.md",
     "Learn Coding/Python/Python notes/Python Easy notes/10 - For Loops.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/9 - Format Specifiers.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/8 - String Indexing.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/7 - Useful String Methods.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/6 - Try and Except.md",
     "Learn Coding/Python/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/3 - Type Casting.md",
     "Learn Coding/Python/Python notes/Python Easy notes/2 - Variables.md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Easy/C++ program that allows the user to input an array of n integers and print out the average number of the array..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program to check if a number is a perfect number or not..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes three positive integers (called day, month, year) then prints the number of that day within its year..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and prints all the Armstrong numbers from 1 to the given number..md",
-    "C++ program to check if a number is perfect or not..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and calculates the sum of the digits in the given number..md",
-    "C++ program that gets a number and displays the sum of the digits in the given number..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that allows the user to input an array of n integers and print out the smallest number of the array..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ Number Guessing Game..md",
-    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md",
-    "Learn Coding/C++/----C++----.md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and displays the given number with its digits reversed. Ex 123 to 321..md",
-    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Easy/C++ program to check if a number is prime or not.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/1 - Hello World.md",
+    "Learn Coding/Python/Menu/Python Useful Libraries.md",
     "Learn Coding/Python/Menu/Python Intermediate.md",
+    "Learn Coding/Python/Menu/Python Exercises.md",
+    "Learn Coding/Python/Menu/Python Easy.md",
+    "Learn Coding/Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
     "Learn Coding",
     "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard",
     "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium",

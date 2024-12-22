@@ -1,3 +1,4 @@
+#Cpp
 #### Armstrong numbers are those numbers whose value is equal to the sum of digits of the number to their third power. Ex: 153 is an Armstrong number because 153 = 1^3 + 5^3 + 3^3.
 
 ```C++

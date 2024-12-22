@@ -1,3 +1,4 @@
+#Deu
 ## 1st tip: Nouns with the ending "e" (abt 98%):
 
 -If a noun ends with "e" just need to add "-n".

@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Cpp ",
+      "color": {
+        "a": 1,
+        "rgb": 4350719
+      }
+    },
+    {
+      "query": "tag:#Python  ",
+      "color": {
+        "a": 1,
+        "rgb": 13172480
+      }
+    },
+    {
+      "query": "tag:#Deu  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1.1,
@@ -17,6 +39,6 @@
   "repelStrength": 15.625,
   "linkStrength": 1,
   "linkDistance": 167,
-  "scale": 0.09895430218637603,
-  "close": false
+  "scale": 0.19450022690617152,
+  "close": true
 }

@@ -1,4 +1,4 @@
-
+#Python 
 ```python
 email = input("Please enter your email: ")
 splitpos = email.index("@")

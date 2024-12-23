@@ -11,14 +11,14 @@
       "query": "tag:#Cpp ",
       "color": {
         "a": 1,
-        "rgb": 4357119
+        "rgb": 262399
       }
     },
     {
       "query": "tag:#Python  ",
       "color": {
         "a": 1,
-        "rgb": 13172480
+        "rgb": 16771584
       }
     },
     {
@@ -38,7 +38,7 @@
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.6,
+  "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1.58020833333333,
   "lineSizeMultiplier": 3.2390625,
   "collapse-forces": false,
@@ -46,6 +46,6 @@
   "repelStrength": 11.25,
   "linkStrength": 1,
   "linkDistance": 209,
-  "scale": 0.7514342322278198,
+  "scale": 0.27268599173603114,
   "close": false
 }

@@ -1,4 +1,5 @@
-#Python
+#Python 
+## Index:
 
 [[Python Email Slicer.]]
 [[Python program to capitalize first and last names of people.]]

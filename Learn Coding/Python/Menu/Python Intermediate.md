@@ -1,4 +1,5 @@
 #Python 
-## Categories:
-[[NumPy]]
-[[Pandas]]
+## Index:
+
+[[1 - Lists, Sets, Tuples]]
+

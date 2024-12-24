@@ -32,20 +32,20 @@
       "query": "tag:#Coding  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 65280
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.58020833333333,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 3.2390625,
   "collapse-forces": false,
-  "centerStrength": 0.479166666666667,
-  "repelStrength": 11.25,
+  "centerStrength": 1,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 209,
-  "scale": 0.27268599173603114,
+  "linkDistance": 113,
+  "scale": 0.05034417736652444,
   "close": false
 }

@@ -34,7 +34,7 @@ for x in reversed(range(1,11)):
 
 ### Continue
 ```python
-for x in range(1,6)
+for x in range(1,6):
 	if x == 3:
 		continue
 	else:
@@ -48,7 +48,7 @@ for x in range(1,6)
 
 ### Break
 ```python
-for x in range(1,6)
+for x in range(1,6):
 	if x == 3:
 		break
 	else:
@@ -56,4 +56,11 @@ for x in range(1,6)
 
 #Ouutput:1
 #        2
+```
+
+### Nested Loop
+```Python
+for x in range(...,...): 
+	for x in range(...,...): 
+		do...
 ```

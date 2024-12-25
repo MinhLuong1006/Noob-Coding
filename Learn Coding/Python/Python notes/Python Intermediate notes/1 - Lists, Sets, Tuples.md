@@ -1,13 +1,15 @@
 #Python 
 ```Python
-Lists = [] ordered and changeable. Duplicates are OK. 
--When you need a collection of ordered items that can be changed (mutable).
+A Collection is a single "variable" used to store multiple values. Types of collections:
 
-Set = {} unordered and immutable. Add or Remove is OK. No Duplicates.
--When you need a collection of unique items and do not care about order.
+-List = [] ordered and changeable. Duplicates are OK. 
+#When you need a collection of ordered items that can be changed (mutable).
 
-Tuple = () ordered and unchangeable. Duplicates are OK. Faster.
--When you want a fixed, ordered collection of items that shouldn't be changed. Useful for passing data as a single entity.
+-Set = {} unordered and immutable. Add or Remove is OK. No Duplicates.
+#When you need a collection of unique items and do not care about order.
+
+-Tuple = () ordered and unchangeable. Duplicates are OK. Faster.
+#When you want a fixed, ordered collection of items that shouldn't be changed. Useful for passing data as a single entity.
 
 ***use help() function to see the descryption of methods: print(help(fruits))***
 

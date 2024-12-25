@@ -48,3 +48,5 @@ print(n[::-1])
 
 #Output:sellarebudnalhcstueD
 ```
+
+## Exercise: [[Python Email Slicer.]], [[Python program to capitalize first and last names of people.]]

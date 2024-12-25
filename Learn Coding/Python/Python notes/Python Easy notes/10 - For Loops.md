@@ -64,3 +64,5 @@ for x in range(...,...):
 	for x in range(...,...): 
 		do...
 ```
+
+## Exercise: [[Python program to print all odd or even numbers from 1 to n]], [[Python Countdown Timer.]]

@@ -2,7 +2,7 @@
 ## Format specifiers f"{value:flags}" format a value based on what flags are inserted.
 ### *** MUST USE A FORMATTED STRING f"{value}"
 
-### I) value:.(number)f  | Round to that many decimal places (fixed point)
+### I) value:.(number)f  (only works with floats)| Round to that many decimal places (fixed point)
 ```python
 x = 3.14111215464
 y = 2.1
@@ -13,7 +13,7 @@ print(f"y equals to: {y:.2f}")
 #       2.10
 ```
 
-### II) value:(number)  | Allocate that many spaces
+### II) value:(number) (only works with integers) | Allocate that many spaces
 ```python
 x = 3.14
 y = -2.1

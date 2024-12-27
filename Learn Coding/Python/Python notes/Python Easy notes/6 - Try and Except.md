@@ -1,5 +1,5 @@
 #Python 
-##### -The idea of try and except  is that you know that some sequence of instruction(s) may have a problem and we want to add some statements to be executed if an error occurs.
+### -The idea of try and except  is that you know that some sequence of instruction(s) may have a problem and we want to add some statements to be executed if an error occurs.
 
 ```python
 try:
@@ -9,7 +9,7 @@ except ValueError: #except only is still OK for many situations
 	print("x is not an integer")
 ```
 
-##### -Combining Try and Except with Else:
+### -Combining Try and Except with Else:
 
 ```python
 try:
@@ -20,7 +20,7 @@ else:
 	print(f"x is {x}")
 ```
 
-##### -Forcing the user to enter the right value using Try/Except and While loop:
+### -Forcing the user to enter the right value using Try/Except and While loop:
 
 ```python
 while True:
@@ -34,7 +34,7 @@ while True:
 print(f"x is {x}")
 ```
 
-##### Let's combine all the things using Functions:
+### Let's combine all the things using Functions:
 
 ```python
 def main():

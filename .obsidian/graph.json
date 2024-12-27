@@ -11,7 +11,7 @@
       "query": "tag:#Cpp ",
       "color": {
         "a": 1,
-        "rgb": 262399
+        "rgb": 25343
       }
     },
     {
@@ -39,13 +39,13 @@
       "query": "tag:#readme  ",
       "color": {
         "a": 1,
-        "rgb": 12996095
+        "rgb": 8913095
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0.6,
+  "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1.171875,
   "lineSizeMultiplier": 3.2390625,
   "collapse-forces": false,
@@ -53,6 +53,6 @@
   "repelStrength": 13.2291666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.27268599173601393,
+  "scale": 0.7514342322277585,
   "close": false
 }

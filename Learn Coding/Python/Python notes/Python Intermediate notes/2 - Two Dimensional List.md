@@ -27,4 +27,3 @@ for collection in groceries:
 
 #Output: apple orange banana coconut celery carrots potatoes chicken fish turkey 
 ```
-## Exercise: [[Python program to print out a numpad using 2D List.]]

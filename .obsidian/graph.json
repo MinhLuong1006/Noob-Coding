@@ -25,7 +25,7 @@
       "query": "tag:#Deu  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16711680
       }
     },
     {
@@ -39,7 +39,7 @@
       "query": "tag:#readme  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16777215
       }
     }
   ],
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 3.2390625,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 13.75,
+  "centerStrength": 0.869791666666667,
+  "repelStrength": 13.2291666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.19450022690616695,
+  "scale": 0.3823010968770193,
   "close": false
 }

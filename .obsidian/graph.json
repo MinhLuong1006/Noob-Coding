@@ -39,20 +39,20 @@
       "query": "tag:#readme  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 12996095
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0.9,
-  "nodeSizeMultiplier": 1.0953125,
+  "textFadeMultiplier": 0.6,
+  "nodeSizeMultiplier": 1.171875,
   "lineSizeMultiplier": 3.2390625,
   "collapse-forces": false,
   "centerStrength": 0.869791666666667,
   "repelStrength": 13.2291666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7514342322278039,
+  "scale": 0.27268599173601393,
   "close": false
 }

@@ -1,4 +1,9 @@
-#Python 
+---
+tags:
+  - Python
+Author: Minh Luong
+date: 2024-12-23
+---
 ### While loop = execute some code WHILE condition(s) remains true.
 ```Python
 age = int(input("Enter your age: "))

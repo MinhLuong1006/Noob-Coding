@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Learn Coding/Python/Python notes/Python Easy notes/10 - For Loops.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "10 - For Loops"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cpp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,6 +71,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2d7f2fd1dfd495c6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -185,33 +195,32 @@
   },
   "active": "9c37eb1ec297e1a0",
   "lastOpenFiles": [
-    "Learn Coding/LEARN CODING.md",
-    "Learn Coding/Python/-----PYTHON------.md",
     "Learn Coding/Python/Python notes/Python Easy notes/11 - While loops.md",
-    "Deutsch/DEUTSCH LERNEN.md",
-    "README.md",
-    "Learn Coding/Python/Python notes/Python Easy notes/9 - Format Specifiers.md",
-    "Learn Coding/Python/Menu/Python Exercises.md",
-    "Learn Coding/Python/Menu/Python Easy.md",
     "Learn Coding/Python/Python notes/Python Easy notes/10 - For Loops.md",
+    "README.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/3 - Type Casting.md",
+    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python program to print all odd or even numbers from 1 to n.md",
+    "2024-12-28.md",
+    "Untitled.canvas",
+    "Learn Coding/Python/Menu/Python Exercises Menu/Python Easy Exercises.md",
     "Learn Coding/Python/Python notes/Python Easy notes/7 - Useful String Methods.md",
     "Learn Coding/Python/Python notes/Python Easy notes/2 - Variables.md",
-    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/9 - Format Specifiers.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/6 - Try and Except.md",
+    "Learn Coding/Python/Python notes/Python Easy notes/8 - String Indexing.md",
+    "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ Program to sort an array with ascending order..md",
     "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md",
+    "Learn Coding/LEARN CODING.md",
+    "Learn Coding/Python/-----PYTHON------.md",
+    "Deutsch/DEUTSCH LERNEN.md",
+    "Learn Coding/Python/Menu/Python Exercises.md",
+    "Learn Coding/Python/Menu/Python Easy.md",
+    "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md",
     "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md",
     "0002-12-27.md",
     "Learn Coding/Python/Python notes/Python Intermediate notes/3 - Dictionaries.md",
     "Learn Coding/Python/Python notes/Python Intermediate notes/1 - Lists, Sets, Tuples.md",
     "Learn Coding/Python/Python notes/Python Intermediate notes/2 - Two Dimensional List.md",
-    "Learn Coding/Python/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md",
-    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python program to print all odd or even numbers from 1 to n.md",
-    "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python program to capitalize first and last names of people..md",
-    "Learn Coding/C++/Menu/C++ Exercises.md",
-    "Learn Coding/Python/Menu/Python Intermediate.md",
-    "Learn Coding/Python/Python notes/Python Easy notes/6 - Try and Except.md",
-    "Learn Coding/Python/Python notes/Python Easy notes/4 - Boolean Expressions in Python.md",
-    "Learn Coding/Python/Python notes/Python Easy notes/3 - Type Casting.md",
-    "Untitled.canvas",
     "Learn Coding",
     "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard",
     "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium",

@@ -84,11 +84,12 @@ for key in keys:
 #        China
 #        Russia
 
---------------------------------BETTER VERSION:---------------------------------
+             -------------------BETTER VERSION:---------------------
 
 capitals = {"USA": "Washington D.C.",
 		    "China": "Beijing",
 		    "Russia": "Moscow"}
+		    
 for capital in capitals:
 	print(capital)
 	
@@ -111,11 +112,12 @@ for value in values:
 #        Beijing
 #        Moscow
 
---------------------------------BETTER VERSION:-----------------------------------
+          ---------------------BETTER VERSION:---------------------
 
 capitals = {"USA": "Washington D.C.",
 		    "China": "Beijing",
 		    "Russia": "Moscow"}
+		    
 for capital in capitals:
 	print(capitals[capital])
 	
@@ -138,11 +140,12 @@ for key, value in items:
 #        China:Beijing
 #        Russia:Moscow
 
---------------------------------BETTER VERSION:-----------------------------------
+               ----------------BETTER VERSION:-------------------
 
 capitals = {"USA": "Washington D.C.",
 		    "China": "Beijing",
 		    "Russia": "Moscow"}
+		    
 for capital in capitals:
 	print(capital, capitals[capital], sep=": ")
 	
@@ -159,6 +162,7 @@ Use Lists of Dictionaries when there is a lot of information.
 countries = [{"name": "USA", "capital": "Washington D.C.", "pact":"NATO"},
 			 {"name": "Soviet Union", "capital": "Moscow", "pact":"Warsaw"},
 			 {"name": "East Germany", "capital": "Berlin", "pact":"Warsaw"}]
+			 
 for country in countries:
 	print (country["name"], country["capital"], country["pact"], sep = ": ")
 

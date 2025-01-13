@@ -4,8 +4,6 @@ tags:
 Author: Minh Luong
 date: 2024-12-18
 ---
-
-#Python 
 ### For Loops are used to execute a block of code a fixed number of times. You can iterate over a range, string, sequence, etc.
 ```python
 #use for loop to print from 1 to 5

@@ -1,12 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "Pandas",
+      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/Pandas.md"
+    },
+    {
+      "basename": "NumPy",
+      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/NumPy.md"
+    },
+    {
+      "basename": "Seaborn",
+      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/Seaborn.md"
+    },
+    {
+      "basename": "random",
+      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/random.md"
+    },
+    {
+      "basename": "Matlotlib",
+      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/Matlotlib.md"
+    },
+    {
+      "basename": "math",
+      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/math.md"
+    },
+    {
+      "basename": "3 - Dictionaries",
+      "path": "Learn Coding/Python/Python notes/Python Intermediate notes/3 - Dictionaries.md"
+    },
+    {
+      "basename": "2 - Two Dimensional List",
+      "path": "Learn Coding/Python/Python notes/Python Intermediate notes/2 - Two Dimensional List.md"
+    },
+    {
+      "basename": "1 - Lists, Sets, Tuples",
+      "path": "Learn Coding/Python/Python notes/Python Intermediate notes/1 - Lists, Sets, Tuples.md"
+    },
+    {
+      "basename": "C++ program that intakes three positive integers (called day, month, year) then prints the number of that day within its year.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes three positive integers (called day, month, year) then prints the number of that day within its year..md"
+    },
+    {
+      "basename": "C++ Medium Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md"
+    },
+    {
+      "basename": "C++ Hard Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md"
+    },
+    {
+      "basename": "C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not..md"
+    },
+    {
+      "basename": "C++ Easy Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md"
+    },
+    {
+      "basename": "C++ Program to sort an array with ascending order.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ Program to sort an array with ascending order..md"
+    },
+    {
+      "basename": "C++ program to check if a number is prime or not",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Easy/C++ program to check if a number is prime or not.md"
+    },
+    {
+      "basename": "Python Intermediate",
+      "path": "Learn Coding/Python/Menu/Python Intermediate.md"
+    },
+    {
+      "basename": "Python Useful Libraries",
+      "path": "Learn Coding/Python/Menu/Python Useful Libraries.md"
+    },
+    {
       "basename": "10 - For Loops",
       "path": "Learn Coding/Python/Python notes/Python Easy notes/10 - For Loops.md"
     },
     {
+      "basename": "5 - If, Elif, Else Statements",
+      "path": "Learn Coding/Python/Python notes/Python Easy notes/5 - If, Elif, Else Statements.md"
+    },
+    {
+      "basename": "Python Easy",
+      "path": "Learn Coding/Python/Menu/Python Easy.md"
+    },
+    {
+      "basename": "Python Medium Exercises",
+      "path": "Learn Coding/Python/Menu/Python Exercises Menu/Python Medium Exercises.md"
+    },
+    {
+      "basename": "Python Easy Exercises",
+      "path": "Learn Coding/Python/Menu/Python Exercises Menu/Python Easy Exercises.md"
+    },
+    {
+      "basename": "C++ Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises.md"
+    },
+    {
+      "basename": "8 - String Indexing",
+      "path": "Learn Coding/Python/Python notes/Python Easy notes/8 - String Indexing.md"
+    },
+    {
       "basename": "11 - While loops",
       "path": "Learn Coding/Python/Python notes/Python Easy notes/11 - While loops.md"
+    },
+    {
+      "basename": "9 - Format Specifiers",
+      "path": "Learn Coding/Python/Python notes/Python Easy notes/9 - Format Specifiers.md"
     },
     {
       "basename": "README",
@@ -21,20 +121,12 @@
       "path": "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python program to print all odd or even numbers from 1 to n.md"
     },
     {
-      "basename": "Python Easy Exercises",
-      "path": "Learn Coding/Python/Menu/Python Exercises Menu/Python Easy Exercises.md"
-    },
-    {
       "basename": "7 - Useful String Methods",
       "path": "Learn Coding/Python/Python notes/Python Easy notes/7 - Useful String Methods.md"
     },
     {
       "basename": "2 - Variables",
       "path": "Learn Coding/Python/Python notes/Python Easy notes/2 - Variables.md"
-    },
-    {
-      "basename": "9 - Format Specifiers",
-      "path": "Learn Coding/Python/Python notes/Python Easy notes/9 - Format Specifiers.md"
     },
     {
       "basename": "6 - Try and Except",

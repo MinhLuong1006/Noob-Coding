@@ -4,3 +4,5 @@
 [[math]]
 [[NumPy]]
 [[Pandas]]
+[[Matlotlib]]
+[[Seaborn]]

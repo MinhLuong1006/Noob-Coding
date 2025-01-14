@@ -18,3 +18,5 @@
 [[C++ program to check if a number is a perfect number or not.]]
 
 [[C++ program that gets a binary number and converts the number to decimal.]]
+
+[[C++ program that gets 2 strings s1 and s2 then checks that if all the letters in s1 are in s2.]]

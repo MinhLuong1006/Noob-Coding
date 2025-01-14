@@ -1,28 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Pandas",
-      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/Pandas.md"
+      "basename": "C++ Medium Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md"
     },
     {
-      "basename": "NumPy",
-      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/NumPy.md"
+      "basename": "C++ program that gets 2 strings s1 and s2 then checks that if all the letters in s1 are in s2.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets 2 strings s1 and s2 then checks that if all the letters in s1 are in s2..md"
     },
     {
-      "basename": "Seaborn",
-      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/Seaborn.md"
+      "basename": "C++ program to print out the second largest number in an array.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to print out the second largest number in an array..md"
     },
     {
-      "basename": "random",
-      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/random.md"
+      "basename": "C++ program to sort an array with descending order.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to sort an array with descending order..md"
+    },
+    {
+      "basename": "C++ program to sort an array with ascending order.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to sort an array with ascending order..md"
+    },
+    {
+      "basename": "C++ Hard Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md"
+    },
+    {
+      "basename": "C++ Easy Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md"
+    },
+    {
+      "basename": "C++ Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises.md"
     },
     {
       "basename": "Matlotlib",
       "path": "Learn Coding/Python/Python notes/Python Useful Libraries/Matlotlib.md"
     },
     {
+      "basename": "Pandas",
+      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/Pandas.md"
+    },
+    {
+      "basename": "random",
+      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/random.md"
+    },
+    {
+      "basename": "NumPy",
+      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/NumPy.md"
+    },
+    {
       "basename": "math",
       "path": "Learn Coding/Python/Python notes/Python Useful Libraries/math.md"
+    },
+    {
+      "basename": "Seaborn",
+      "path": "Learn Coding/Python/Python notes/Python Useful Libraries/Seaborn.md"
     },
     {
       "basename": "3 - Dictionaries",
@@ -41,24 +73,8 @@
       "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes three positive integers (called day, month, year) then prints the number of that day within its year..md"
     },
     {
-      "basename": "C++ Medium Exercises",
-      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md"
-    },
-    {
-      "basename": "C++ Hard Exercises",
-      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md"
-    },
-    {
       "basename": "C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not.",
       "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not..md"
-    },
-    {
-      "basename": "C++ Easy Exercises",
-      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md"
-    },
-    {
-      "basename": "C++ Program to sort an array with ascending order.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ Program to sort an array with ascending order..md"
     },
     {
       "basename": "C++ program to check if a number is prime or not",
@@ -91,10 +107,6 @@
     {
       "basename": "Python Easy Exercises",
       "path": "Learn Coding/Python/Menu/Python Exercises Menu/Python Easy Exercises.md"
-    },
-    {
-      "basename": "C++ Exercises",
-      "path": "Learn Coding/C++/Menu/C++ Exercises.md"
     },
     {
       "basename": "8 - String Indexing",

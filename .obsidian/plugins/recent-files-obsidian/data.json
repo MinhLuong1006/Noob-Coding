@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "C++ binary search",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ binary search.md"
+    },
+    {
+      "basename": "C++ binary search",
+      "path": "C++ binary search.md"
+    },
+    {
+      "basename": "C++ Hard Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md"
+    },
+    {
+      "basename": "C++ program to sort an array with ascending order.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to sort an array with ascending order..md"
+    },
+    {
+      "basename": "C++ program to print out the second largest number in an array.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to print out the second largest number in an array..md"
+    },
+    {
+      "basename": "C++ program that takes n numbers as input then prints out all the numbers that can be expressed by the sum of two prime numbers.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program that takes n numbers as input then prints out all the numbers that can be expressed by the sum of two prime numbers..md"
+    },
+    {
+      "basename": "C++ program that takes an array of n integers as input and separates even and odd numbers of the array then put all even numbers first, and then odd numbers.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that takes an array of n integers as input and separates even and odd numbers of the array then put all even numbers first, and then odd numbers..md"
+    },
+    {
       "basename": "C++ program that takes an array of n integers as input and separates even and odd numbers of the array then put all even numbers first, and then odd numbers.",
       "path": "C++ program that takes an array of n integers as input and separates even and odd numbers of the array then put all even numbers first, and then odd numbers..md"
     },
@@ -13,16 +41,8 @@
       "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that takes an array of n integers as input and then sort the array in reverse order..md"
     },
     {
-      "basename": "C++ Hard Exercises",
-      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md"
-    },
-    {
       "basename": "C++ Easy Exercises",
       "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md"
-    },
-    {
-      "basename": "C++ program that takes n numbers as input then prints out all the numbers that can be expressed by the sum of two prime numbers.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program that takes n numbers as input then prints out all the numbers that can be expressed by the sum of two prime numbers..md"
     },
     {
       "basename": "C++ Exercises",
@@ -53,16 +73,8 @@
       "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets 2 strings s1 and s2 then checks that if all the letters in s1 are in s2..md"
     },
     {
-      "basename": "C++ program to print out the second largest number in an array.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to print out the second largest number in an array..md"
-    },
-    {
       "basename": "C++ program to sort an array with descending order.",
       "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to sort an array with descending order..md"
-    },
-    {
-      "basename": "C++ program to sort an array with ascending order.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to sort an array with ascending order..md"
     },
     {
       "basename": "Matlotlib",

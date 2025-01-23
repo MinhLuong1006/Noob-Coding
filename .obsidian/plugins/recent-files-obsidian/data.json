@@ -5,44 +5,112 @@
       "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ binary search.md"
     },
     {
-      "basename": "C++ binary search",
-      "path": "C++ binary search.md"
+      "basename": "C++ program that takes n numbers as input then prints out all the numbers that can be expressed by the sum of two prime numbers.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program that takes n numbers as input then prints out all the numbers that can be expressed by the sum of two prime numbers..md"
     },
     {
-      "basename": "C++ Hard Exercises",
-      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md"
-    },
-    {
-      "basename": "C++ program to sort an array with ascending order.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to sort an array with ascending order..md"
+      "basename": "C++ program to check if a number is prime or not",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Easy/C++ program to check if a number is prime or not.md"
     },
     {
       "basename": "C++ program to print out the second largest number in an array.",
       "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to print out the second largest number in an array..md"
     },
     {
-      "basename": "C++ program that takes n numbers as input then prints out all the numbers that can be expressed by the sum of two prime numbers.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program that takes n numbers as input then prints out all the numbers that can be expressed by the sum of two prime numbers..md"
+      "basename": "C++ program to sort an array with descending order.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to sort an array with descending order..md"
+    },
+    {
+      "basename": "C++ program to sort an array with ascending order.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to sort an array with ascending order..md"
+    },
+    {
+      "basename": "C++ program to check if a number is a perfect number or not.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program to check if a number is a perfect number or not..md"
+    },
+    {
+      "basename": "C++ program that takes n numbers from the input and prints out all the prime numbers.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that takes n numbers from the input and prints out all the prime numbers..md"
     },
     {
       "basename": "C++ program that takes an array of n integers as input and separates even and odd numbers of the array then put all even numbers first, and then odd numbers.",
       "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that takes an array of n integers as input and separates even and odd numbers of the array then put all even numbers first, and then odd numbers..md"
     },
     {
-      "basename": "C++ program that takes an array of n integers as input and separates even and odd numbers of the array then put all even numbers first, and then odd numbers.",
-      "path": "C++ program that takes an array of n integers as input and separates even and odd numbers of the array then put all even numbers first, and then odd numbers..md"
-    },
-    {
-      "basename": "C++ Medium Exercises",
-      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md"
-    },
-    {
       "basename": "C++ program that takes an array of n integers as input and then sort the array in reverse order.",
       "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that takes an array of n integers as input and then sort the array in reverse order..md"
     },
     {
-      "basename": "C++ Easy Exercises",
-      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md"
+      "basename": "C++ program that intakes three positive integers (called day, month, year) then prints the number of that day within its year.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes three positive integers (called day, month, year) then prints the number of that day within its year..md"
+    },
+    {
+      "basename": "C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not..md"
+    },
+    {
+      "basename": "C++ program that gets n numbers and prints out the biggest number.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets n numbers and prints out the biggest number..md"
+    },
+    {
+      "basename": "C++ program that gets a number and prints all the Armstrong numbers from 1 to the given number.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and prints all the Armstrong numbers from 1 to the given number..md"
+    },
+    {
+      "basename": "C++ program that gets a number and displays the given number with its digits reversed. Ex 123 to 321.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and displays the given number with its digits reversed. Ex 123 to 321..md"
+    },
+    {
+      "basename": "C++ program that gets a number and calculates the sum of the digits in the given number.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a number and calculates the sum of the digits in the given number..md"
+    },
+    {
+      "basename": "C++ program that gets a binary number and converts the number to decimal.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets a binary number and converts the number to decimal..md"
+    },
+    {
+      "basename": "C++ program that gets 2 strings s1 and s2 then checks that if all the letters in s1 are in s2.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets 2 strings s1 and s2 then checks that if all the letters in s1 are in s2..md"
+    },
+    {
+      "basename": "C++ program that allows the user to input an array of n integers and print out the smallest number of the array.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that allows the user to input an array of n integers and print out the smallest number of the array..md"
+    },
+    {
+      "basename": "C++ Number Guessing Game.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ Number Guessing Game..md"
+    },
+    {
+      "basename": "C++ program that allows the user to input an array of n integers and print out the average number of the array.",
+      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Easy/C++ program that allows the user to input an array of n integers and print out the average number of the array..md"
+    },
+    {
+      "basename": "Python Countdown Timer.",
+      "path": "Learn Coding/Python/Python notes/Python Exercises notes/Medium/Python Countdown Timer..md"
+    },
+    {
+      "basename": "Python program to print out a numpad using 2D List.",
+      "path": "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python program to print out a numpad using 2D List..md"
+    },
+    {
+      "basename": "Python program to print all odd or even numbers from 1 to n",
+      "path": "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python program to print all odd or even numbers from 1 to n.md"
+    },
+    {
+      "basename": "Python program to capitalize first and last names of people.",
+      "path": "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python program to capitalize first and last names of people..md"
+    },
+    {
+      "basename": "Python Fahrenheit - Celsius Converter",
+      "path": "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python Fahrenheit - Celsius Converter.md"
+    },
+    {
+      "basename": "Python Email Slicer.",
+      "path": "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python Email Slicer..md"
+    },
+    {
+      "basename": "C++ Medium Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Medium Exercises.md"
     },
     {
       "basename": "C++ Exercises",
@@ -53,28 +121,28 @@
       "path": "Learn Coding/C++/----C++----.md"
     },
     {
+      "basename": "C++ binary search",
+      "path": "C++ binary search.md"
+    },
+    {
+      "basename": "C++ Hard Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Hard Exercises.md"
+    },
+    {
+      "basename": "C++ program that takes an array of n integers as input and separates even and odd numbers of the array then put all even numbers first, and then odd numbers.",
+      "path": "C++ program that takes an array of n integers as input and separates even and odd numbers of the array then put all even numbers first, and then odd numbers..md"
+    },
+    {
+      "basename": "C++ Easy Exercises",
+      "path": "Learn Coding/C++/Menu/C++ Exercises Menu/C++ Easy Exercises.md"
+    },
+    {
       "basename": "LEARN CODING",
       "path": "Learn Coding/LEARN CODING.md"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "C++ program that takes n numbers from the input and prints out all the prime numbers.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that takes n numbers from the input and prints out all the prime numbers..md"
-    },
-    {
-      "basename": "C++ program that gets n numbers and prints out the biggest number.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets n numbers and prints out the biggest number..md"
-    },
-    {
-      "basename": "C++ program that gets 2 strings s1 and s2 then checks that if all the letters in s1 are in s2.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that gets 2 strings s1 and s2 then checks that if all the letters in s1 are in s2..md"
-    },
-    {
-      "basename": "C++ program to sort an array with descending order.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Hard/C++ program to sort an array with descending order..md"
     },
     {
       "basename": "Matlotlib",
@@ -113,18 +181,6 @@
       "path": "Learn Coding/Python/Python notes/Python Intermediate notes/1 - Lists, Sets, Tuples.md"
     },
     {
-      "basename": "C++ program that intakes three positive integers (called day, month, year) then prints the number of that day within its year.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes three positive integers (called day, month, year) then prints the number of that day within its year..md"
-    },
-    {
-      "basename": "C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not.",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Medium/C++ program that intakes a positive integer (called the year) and check if the year is a leap year or not..md"
-    },
-    {
-      "basename": "C++ program to check if a number is prime or not",
-      "path": "Learn Coding/C++/C++ notes/C++ Exercises Notes/Easy/C++ program to check if a number is prime or not.md"
-    },
-    {
       "basename": "Python Intermediate",
       "path": "Learn Coding/Python/Menu/Python Intermediate.md"
     },
@@ -143,46 +199,6 @@
     {
       "basename": "Python Easy",
       "path": "Learn Coding/Python/Menu/Python Easy.md"
-    },
-    {
-      "basename": "Python Medium Exercises",
-      "path": "Learn Coding/Python/Menu/Python Exercises Menu/Python Medium Exercises.md"
-    },
-    {
-      "basename": "Python Easy Exercises",
-      "path": "Learn Coding/Python/Menu/Python Exercises Menu/Python Easy Exercises.md"
-    },
-    {
-      "basename": "8 - String Indexing",
-      "path": "Learn Coding/Python/Python notes/Python Easy notes/8 - String Indexing.md"
-    },
-    {
-      "basename": "11 - While loops",
-      "path": "Learn Coding/Python/Python notes/Python Easy notes/11 - While loops.md"
-    },
-    {
-      "basename": "9 - Format Specifiers",
-      "path": "Learn Coding/Python/Python notes/Python Easy notes/9 - Format Specifiers.md"
-    },
-    {
-      "basename": "3 - Type Casting",
-      "path": "Learn Coding/Python/Python notes/Python Easy notes/3 - Type Casting.md"
-    },
-    {
-      "basename": "Python program to print all odd or even numbers from 1 to n",
-      "path": "Learn Coding/Python/Python notes/Python Exercises notes/Easy/Python program to print all odd or even numbers from 1 to n.md"
-    },
-    {
-      "basename": "7 - Useful String Methods",
-      "path": "Learn Coding/Python/Python notes/Python Easy notes/7 - Useful String Methods.md"
-    },
-    {
-      "basename": "2 - Variables",
-      "path": "Learn Coding/Python/Python notes/Python Easy notes/2 - Variables.md"
-    },
-    {
-      "basename": "6 - Try and Except",
-      "path": "Learn Coding/Python/Python notes/Python Easy notes/6 - Try and Except.md"
     }
   ],
   "omittedPaths": [],

@@ -15,25 +15,26 @@ int main()
 	} 
 		for (int i = 0; i < n; i++) 
 	{ 
-	int num = arr[i]; 
-	bool isPrime = true; 
-	if (num <= 1) 
-	{ 
-		isPrime = false; 
-	} 
-	else 
-	{ 
-	for (int i = 2; i <= num/2; i++) 
+		int num = arr[i]; 
+		bool isPrime = true; 
+		if (num <= 1) 
 		{ 
-			if (num % i ==0) 
+			isPrime = false; 
+		} 
+		else 
+		{ 
+			for (int i = 2; i <= num/2; i++) 
 			{ 
-				isPrime = false; 
+				if (num % i ==0) 
+				{ 
+					isPrime = false; 
+				} 
 			} 
 		} 
-	} 
-	if(isPrime) 
-	{ 
-		cout << num << " "; 
-	} 	
+		if(isPrime) 
+		{ 
+			cout << num << " "; 
+		}
+	}	 	
 }
 ```

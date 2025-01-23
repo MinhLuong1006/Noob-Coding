@@ -1,6 +1,6 @@
 #Cpp
 ```C++
-include <iostream> 
+#include <iostream> 
 using namespace std;
 int main() 
 { 
@@ -41,31 +41,31 @@ int main()
 			{ 
 				cout << "Invalid value because the day you enter is greater than                 the number of the days in the month"; 
 				return 1; 
+			} 
+			else 
+			{ 
+					for(int i = 0; i < month - 1; i++) 
+				{ 
+					result += days[i]; 
+				} 
+			} 
 		} 
-		else 
+		else if (!isLeap) 
 		{ 
-			for(int i = 0; i < month - 1; i++) 
-		{ 
-		result += days[i]; 
-		} 
-		} 
-	} 
-	else if (!isLeap) 
-	{ 
-		int days[] = {31,28,31,30,31,30,31,31,30,31,30,31}; 
-		if (day > days[month]) 
-		{ 
-		cout << "Invalid value because the day you enter is greater than the             number of the days in the month"; 
-		return 1;
-	} 
-		else 
-		{ 
-			for(int i = 0; i < month - 1; i++) 
-		    { 
-			    result += days[i]; 
+			int days[] = {31,28,31,30,31,30,31,31,30,31,30,31}; 
+			if (day > days[month]) 
+			{ 
+				cout << "Invalid value because the day you enter is greater    than the number of the days in the month"; 
+				return 1;
+			} 
+			else 
+			{ 
+				for(int i = 0; i < month - 1; i++) 
+			    { 
+				    result += days[i]; 
+			    } 
 		    } 
 	    } 
-    } 
     } 
 	 result += day; 
 	 cout << result; 
